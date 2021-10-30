@@ -6,6 +6,14 @@
 
 <br />
 
+## Features
+- User can view all list of groceries
+- User can add new grocery item
+- User can edit any particular grocery item
+- User can delete any particular grocery item
+
+<br />
+
 ## How to use
 
 ```bash
