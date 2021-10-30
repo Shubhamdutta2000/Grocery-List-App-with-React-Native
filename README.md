@@ -2,8 +2,6 @@
 
 > CRUD operation of Grocery List made with React-Native
 
-![Application](/images/demo.PNG?raw=true)
-
 <br />
 
 ## Features
@@ -11,6 +9,11 @@
 - User can add new grocery item
 - User can edit any particular grocery item
 - User can delete any particular grocery item
+
+<br />
+
+## App Demo
+![Application](/images/demo.PNG?raw=true)
 
 <br />
 
